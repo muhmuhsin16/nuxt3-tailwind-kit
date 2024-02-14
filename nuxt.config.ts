@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     './apps/admin',
     './apps/docs',
     './apps/auth',
+    './apps/arjuna999',
   ],
   modules: [
     '@vueuse/nuxt',
